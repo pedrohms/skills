@@ -1,5 +1,5 @@
 ---
-name: project-language
+name: project-skills
 description: Detecta automaticamente a linguagem do projeto e ativa a skill de regras correspondente
 ---
 

@@ -3,4 +3,4 @@
 * Planos e notas de desenvolvimento → `infodocs/planos/`
 
 ## Linguagem do Projeto
-Use a skill `project-language` para detectar a linguagem e aplicar as regras corretas automaticamente.
+Use a skill `project-skills` para detectar a linguagem e aplicar as regras corretas automaticamente.
